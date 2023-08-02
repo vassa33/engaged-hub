@@ -5,4 +5,3 @@ Readme file for the *engaged-hub* repository.
 - HTML5
 - CSS3
 - Bootstrap5
-- JavaScript
