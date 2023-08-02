@@ -1,2 +1,0 @@
-# engaged-hub
-EngagEd Hub
