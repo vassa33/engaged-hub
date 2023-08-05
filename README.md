@@ -1,5 +1,5 @@
 ### Engaged Hub
-Readme file for the *engaged-hub* repository.  
+Readme file for the *EngagEd-Hub* repository.  
 
 ### Languages:
 - HTML5
